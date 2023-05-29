@@ -37,7 +37,7 @@
             </menuitem>
         </menu>
     </menuitem>
-    <menuitem label='Exemplos'>
+    <menuitem label='Básico'>
         <icon>fa:cog fa-fw</icon>
         <menu>
             <menuitem label='Teste'>
